@@ -4,8 +4,8 @@ This is the demo for git and Github class .
 # Teacher
 Shradha Khapra
 
-# Student
+# Student1
 Mafrin
 
 #New Branch
-this is a new branch
+this is a new branch 
